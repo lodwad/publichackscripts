@@ -1,3 +1,3 @@
 # publichackscripts
 
-So we are able to update and retrieve our code. Great. 
+This will be a place where public exploit code is released. Play nice. 
